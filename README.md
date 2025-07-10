@@ -26,29 +26,8 @@
    - `3_create_indexes.js` to insert indexes
    - `4_queries.js` to test output
    - Or use `5_demo_script.js` for demo-ready queries
----
 
-## ???? Features Demonstrated
 
-- ✅ Normalized SQL schema with foreign keys
-
-- ✅ Indexed queries and performance considerations
-- MySQL stored procedure and transaction block
-- MongoDB aggregation and filtering
-- Real-world error handling in implementation
-- ER diagram (SQL) and schema diagram (MongoDB) visual
----
-
-## ???? Report and Deliverables
-
-The main report (`M605_Library_Project_Report.docx`) includes:
-
-- Technical explanation
-- Design decisions
-- Screenshots
-- Diagrams
-- Reflections on issues encountered
----
 
 ## ????‍???? Author
 
